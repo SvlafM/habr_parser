@@ -1,0 +1,5 @@
+black
+asyncio
+aiogram
+aiohttp
+beautifulsoup4
